@@ -1,0 +1,2 @@
+# freshsales-academy
+Freshsales Academy
